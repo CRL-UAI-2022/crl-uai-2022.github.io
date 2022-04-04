@@ -41,7 +41,7 @@ disableKinds = ["taxonomyTerm"]
     weight = 4
 [[menu.main]]
     name = "Schedule"
-    url  = "/organizers"
+    url  = "/schedule"
     weight = 5
 [[menu.main]]
     name = "Organizers"
