@@ -19,13 +19,15 @@ We welcome submissions related to any aspects of CRL, including but not limited 
 * Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy
 * Real-world applications of causal representation learning, including in biology, medical sciences, or robotics
 
-# Important Dates
+
+## Important Dates
 
 * **Paper submission deadline:** TBA
 * **Notification to authors:** TBA
 * **Camera-ready version:** TBA
 * **Workshop Date:** August 5, 2022
 
-# Style & Author Instructions
+
+## Style & Author Instructions
 
 To be announced.

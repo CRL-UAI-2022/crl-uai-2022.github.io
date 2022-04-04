@@ -7,7 +7,8 @@ math: true
 
 The 1st Workshop on Causal Representation Learning (CRL 2022) will be co-located with UAI 2022, in Eindhoven, and held on **August 5, 2022.**
 
-# Important Dates
+
+## Important Dates
 
 * **Paper submission deadline:** TBA
 * **Notification to authors:** TBA
