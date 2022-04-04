@@ -1,5 +1,5 @@
 # Global options
-baseurl = "/"
+baseurl = "https://crl-uai-2022.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
