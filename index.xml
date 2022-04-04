@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop on Causal Representation Learning at UAI 2022 on </title>
-    <link>/</link>
+    <link>https://crl-uai-2022.github.io/</link>
     <description>Recent content in Workshop on Causal Representation Learning at UAI 2022 on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://crl-uai-2022.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://crl-uai-2022.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://crl-uai-2022.github.io/about/</guid>
       <description>About Machine learning (ML) has established itself as the dominant and most successful paradigm for artificial intelligence (AI). A key strength of ML over earlier (symbolic, logic and rule-based) approaches to AI, is its ability to infer useful features or representations of often very high-dimensional observations in an automated, data-driven way. However, in doing so, it generally only leverages statistical information (e.g., correlations present in a training set) and consequently struggles at tasks such as knowledge transfer, systematic generalization, or planning, which are thought to require higher-order cognition.</description>
     </item>
     
     <item>
       <title>Accepted Papers</title>
-      <link>/accepted-papers/</link>
+      <link>https://crl-uai-2022.github.io/accepted-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/accepted-papers/</guid>
+      <guid>https://crl-uai-2022.github.io/accepted-papers/</guid>
       <description>Accepted Papers To be announced.</description>
     </item>
     
     <item>
       <title>Call for Papers</title>
-      <link>/call-for-papers/</link>
+      <link>https://crl-uai-2022.github.io/call-for-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/call-for-papers/</guid>
+      <guid>https://crl-uai-2022.github.io/call-for-papers/</guid>
       <description>Call for Papers We welcome submissions related to any aspects of CRL, including but not limited to:
  Learning latent (structural) causal models &amp;amp; structured (deep) generative models Interventional representations, causal digital twins &amp;amp; structured (causal) world models Post-hoc extraction of causal relations from (deep) generative models Self-supervised causal representation learning Multi-environment &amp;amp; multi-view causal representation learning Micro vs. macro/coarse-grained/multi-level causal systems Identifiable representation learning &amp;amp; nonlinear ICA Uncertainty quantification in (causal) representation learning Group-theoretic &amp;amp; symmetry-based views on disentanglement Invariance &amp;amp; equivariance in representation learning Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy Real-world applications of causal representation learning, including in biology, medical sciences, or robotics  Important Dates  Paper submission deadline: TBA Notification to authors: TBA Camera-ready version: TBA Workshop Date: August 5, 2022  Style &amp;amp; Author Instructions To be announced.</description>
     </item>
     
     <item>
       <title>Organizers</title>
-      <link>/organizers/</link>
+      <link>https://crl-uai-2022.github.io/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/organizers/</guid>
+      <guid>https://crl-uai-2022.github.io/organizers/</guid>
       <description>Organizers Julius von Kügelgen is a PhD student in the Cambridge-Tübingen program, supervised by Bernhard Schölkopf at the Max Planck Institute for Intelligent Systems and by Adrian Weller at the University of Cambridge. His research interests lie at the intersection of causal inference and machine learning, including causal reasoning for explainability, recourse and fairness; causal discovery; and identifiable causal representation learning. He has interned at Amazon (2019 - 2021) and was awarded a Google PhD Fellowship in Machine Learning in 2022.</description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>/schedule/</link>
+      <link>https://crl-uai-2022.github.io/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/schedule/</guid>
+      <guid>https://crl-uai-2022.github.io/schedule/</guid>
       <description>Schedule (Times are according to Central European Summer Time)
 To be announced.
 Invited Speakers To be announced.</description>
@@ -56,10 +56,10 @@ Invited Speakers To be announced.</description>
     
     <item>
       <title>Selected References</title>
-      <link>/selected-references/</link>
+      <link>https://crl-uai-2022.github.io/selected-references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/selected-references/</guid>
+      <guid>https://crl-uai-2022.github.io/selected-references/</guid>
       <description>Selected References Kosoy, E., Liu, A., Collins, J.L., Chan, D., Hamrick, J.B., Ke, N.R., Huang, S., Kaufmann, B., Canny, J. &amp;amp; Gopnik, A. Learning Causal Overhypotheses through Exploration in Children and Computational Models. Conference on Causal Learning and Reasoning, 2022.
 Ahuja, K., Hartford, J., &amp;amp; Bengio, Y. Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning. International Conference on Learning Representations, 2022.
 Lippe, P., Magliacane, S., Löwe, S., Asano, Y.</description>
