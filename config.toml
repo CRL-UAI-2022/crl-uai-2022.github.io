@@ -1,5 +1,5 @@
 # Global options
-baseurl = ""
+baseurl = "/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -11,8 +11,8 @@ disableKinds = ["taxonomyTerm"]
   title = "Causal Representation Learning"
   subtitle = "August 5 @ UAI 2022"
   author = "Julius von Kügelgen, Luigi Gresele, Francesco Locatello, Sara Magliacane, Nan Rosemary Ke, Yixin Wang, Yoshua Bengio, Timothy Gebhard"
-  description = ""
-  keywords = ["workshop", "causal representation"]
+  description = "First Workshop on Causal Representation Learning (UAI 2022)"
+  keywords = ["workshop", "causal representation learning"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
