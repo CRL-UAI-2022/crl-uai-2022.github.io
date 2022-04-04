@@ -5,17 +5,14 @@ languagecode = "en"
 theme = "crl-uai-2022-theme"
 disableKinds = ["taxonomyTerm"]
 
-# Render both the HTML and the calendar (ICS file)
-[outputs]
-    section = ["HTML", "Calendar"]
-
 # Params that are used in <head>
 [params]
-  title = "Workshop on Causal Representation Learning at UAI 2022"
-  author = "Luigi Gresele"
+  supertitle = "First Workshop on"
+  title = "Causal Representation Learning"
+  subtitle = "August 5 @ UAI 2022"
+  author = "Julius von Kügelgen, Luigi Gresele, Francesco Locatello, Sara Magliacane, Nan Rosemary Ke, Yixin Wang, Yoshua Bengio, Timothy Gebhard"
   description = ""
   keywords = ["workshop", "causal representation"]
-
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
