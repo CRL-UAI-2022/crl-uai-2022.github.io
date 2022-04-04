@@ -18,4 +18,4 @@ Sara Magliacane is an assistant professor in the Informatics Institute at the Un
 **Yoshua Bengio** is a Full Professor in the Department of Computer Science and Operations Research at Université de Montreal, as well as the Founder and Scientific Director of Mila and the Scientific Director of IVADO. Considered one of the world’s leaders in artificial intelligence and deep learning, he is the recipient of the 2018 A.M. Turing Award with Geoff Hinton and Yann LeCun, known as the Nobel prize of computing. He is a Fellow of both the Royal Society of London and Canada, an Officer of the Order of Canada, Knight of the Legion of Honor of France, and a Canada CIFAR AI Chair.
 
 
-Thanks to **Timothy Gebhard** for help setting up the workshop website.
+Thanks to **Timothy Gebhard** for helping us set up the workshop website.
