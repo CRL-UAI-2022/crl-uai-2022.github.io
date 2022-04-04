@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{- partial "head.html" . -}}
+
+<body>
+    
+    {{- partial "header.html" . -}}
+
+    <section id="content">
+        {{ block "main" . }} {{ end }}
+    </section>
+    
+    {{- partial "footer.html" . -}}
+
+    {{ partial "katex.html" . }}
+
+</body>
+
+</html>

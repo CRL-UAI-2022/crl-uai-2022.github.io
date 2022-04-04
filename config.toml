@@ -1,0 +1,49 @@
+# Global options
+baseurl = ""
+canonifyurls = true
+languagecode = "en"
+theme = "crl-uai-2022-theme"
+disableKinds = ["taxonomyTerm"]
+
+# Render both the HTML and the calendar (ICS file)
+[outputs]
+    section = ["HTML", "Calendar"]
+
+# Params that are used in <head>
+[params]
+  title = "Workshop on Causal Representation Learning at UAI 2022"
+  author = "Luigi Gresele"
+  description = ""
+  keywords = ["workshop", "causal representation"]
+
+
+# Options for Markdown renderer
+[markup.goldmark.renderer]
+  unsafe = true
+  xHTML = true
+
+# Main menu
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 1
+[[menu.main]]
+    name = "Call for Papers"
+    url  = "/call-for-papers"
+    weight = 2
+[[menu.main]]
+    name = "Selected References"
+    url  = "/selected-references"
+    weight = 3
+[[menu.main]]
+    name = "Accepted Papers"
+    url  = "/accepted-papers"
+    weight = 4
+[[menu.main]]
+    name = "Schedule"
+    url  = "/organizers"
+    weight = 5
+[[menu.main]]
+    name = "Organizers"
+    url  = "/organizers"
+    weight = 6

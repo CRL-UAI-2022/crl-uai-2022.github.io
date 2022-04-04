@@ -1,0 +1,32 @@
+<head>
+
+    {{ hugo.Generator }}
+    <meta name="date" content="{{ hugo.BuildDate }}">
+
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+
+    <meta name="author" content="{{ .Site.Params.author }}">
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}" />
+
+    <title>{{- .Title -}}</title>
+
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="{{ .Site.Params.description }}" />
+
+    <meta name="twitter:title" content="{{ .Site.Title }}" />
+
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="stylesheet" href="/styles.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+</head>
