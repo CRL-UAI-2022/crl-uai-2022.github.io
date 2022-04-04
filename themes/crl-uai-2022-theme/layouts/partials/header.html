@@ -1,6 +1,8 @@
 <section id="header">
 
-    <h1><a href="/">{{ .Site.Params.Title | safeHTML }}</a></h1>
+    <div class="supertitle">{{ .Site.Params.Supertitle | safeHTML }}</div>
+    <div class="title"><a href="/">{{ .Site.Params.Title | safeHTML }}</a></div>
+    <div class="subtitle">{{ .Site.Params.Subtitle | safeHTML }}</div>
     
     <div id="navigation">
         <ul>
