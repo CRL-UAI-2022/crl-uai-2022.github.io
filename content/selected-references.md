@@ -4,7 +4,7 @@ title: "Selected References"
 
 # Selected References
 
-The following is a non-exclusive list of selected references related to the topics of the workshop.
+The following is a non-exhaustive list of selected references related to the topics of the workshop.
 
 * Kosoy, E., Liu, A., Collins, J.L., Chan, D., Hamrick, J.B., Ke, N.R., Huang, S., Kaufmann, B., Canny, J. & Gopnik, A. Learning Causal Overhypotheses through Exploration in Children and Computational Models. Conference on Causal Learning and Reasoning, 2022.
 
