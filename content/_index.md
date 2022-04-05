@@ -7,7 +7,7 @@ title: "Workshop on Causal Representation Learning at UAI 2022"
 The **First Workshop on Causal Representation Learning (CRL 2022)** will be co-located with [**UAI 2022**](https://www.auai.org/uai2022/), in Eindhoven, and held on **August 5, 2022.**
 
 
-# About
+# About the workshop
 
 Machine learning (ML) has established itself as the dominant and most successful paradigm for artificial intelligence (AI). A key strength of ML over earlier (symbolic, logic and rule-based) approaches to AI, is its ability to infer useful features or *representations* of often very high-dimensional observations in an automated, data-driven way. However, in doing so, it generally only leverages *statistical* information (e.g., correlations present in a training set) and consequently struggles at tasks such as knowledge transfer, systematic generalization, or planning, which are thought to require higher-order cognition.
 
