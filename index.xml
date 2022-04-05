@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshop on Causal Representation Learning at UAI 2022 on </title>
+    <title>Home on </title>
     <link>https://crl-uai-2022.github.io/</link>
-    <description>Recent content in Workshop on Causal Representation Learning at UAI 2022 on </description>
+    <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://crl-uai-2022.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -40,14 +40,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crl-uai-2022.github.io/organizers/</guid>
-      <description>Organizers Julius von Kügelgen
-Luigi Gresele
-Francesco Locatello
-Sara Magliacane
-Nan Rosemary Ke
-Yixin Wang
-Yoshua Bengio
-Thanks to Timothy Gebhard for helping us set up the workshop website.</description>
+      <description>Organizers   Julius von Kügelgen    Luigi Gresele    Francesco Locatello    Sara Magliacane    Nan Rosemary Ke    Yixin Wang    Yoshua Bengio   Thanks also to Timothy Gebhard for helping us set up the workshop website!</description>
     </item>
     
     <item>
