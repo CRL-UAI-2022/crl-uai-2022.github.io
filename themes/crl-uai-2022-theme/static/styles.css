@@ -108,7 +108,6 @@ li {
 /*  HEADER AND NAVIGATION */
 
 #header {
-	text-align: center;
 	padding-top: 60px;
     line-height: 1.4;
 }
@@ -134,15 +133,16 @@ li {
 }
 
 #header .subtitle {
-    margin: 12px 0;
+    margin: 8px 0;
     color: #444444;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 #navigation {
+    text-align: center;
+    margin-top: 24px;
     font-size: 17px;
     font-weight: 400;
-	margin-top: 32px;
     padding: 6px 8px;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
@@ -195,6 +195,43 @@ li {
 
 #content a:hover {
     text-decoration-style: solid;
+}
+
+.schedule {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.schedule th  {
+    font-weight: bold;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.schedule tr th, .schedule tr td {
+    padding: 1px;
+}
+
+.schedule th:nth-child(2), table td:nth-child(2){
+    text-align: left;
+}
+
+.schedule tr:last-of-type td{
+    border-bottom: 2px solid black;
+}
+
+.invited {
+    background-color: #FFE599;
+}
+
+.contributed {
+    background-color: #A4C2F4;
+}
+
+.break {
+    background-color: #B6D7A8;
 }
 
 
