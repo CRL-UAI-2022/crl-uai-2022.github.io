@@ -112,35 +112,60 @@ li {
     line-height: 1.4;
 }
 
-#header .supertitle {
+
+#logo-container {
+    width: 35%;
+    float: left;
+    height: 200px;
+    display: table;
+}
+
+#logo-container-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#title-container {
+    width: 60%;
+    float: right;
+    text-align: left;
+    vertical-align: middle;
+    display: table;
+    height: 200px;
+    padding-top: 18px;
+    box-sizing: border-box;
+}
+
+#title-inner-container {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#title-container .supertitle {
     margin: 0;
     font-weight: 400;
     font-size: 20px;
 }
 
-#header .logo img {
-    width: 120px;
-}
-
-#header .title {
+#title-container .title {
     margin: 0;
     font-size: 32px;
     font-weight: 400;
 }
 
-#header .title a {
+#title-container .title a {
     text-decoration: none;
 }
 
-#header .subtitle {
+#title-container .subtitle {
     margin: 8px 0;
     color: #444444;
     font-size: 16px;
 }
 
 #navigation {
+    clear: both;
     text-align: center;
-    margin-top: 24px;
     font-size: 17px;
     font-weight: 400;
     padding: 6px 8px;
@@ -235,6 +260,30 @@ li {
 }
 
 
+.list-of-people {
+    margin: 0 auto;
+}
+
+.list-of-people tr td {
+    vertical-align: middle;
+}
+
+.list-of-people tr td:nth-child(2) {
+    vertical-align: middle;
+    padding-left: 16px;
+}
+
+.list-of-people tr td a {
+    font-weight: bold;
+}
+
+.list-of-people tr td img {
+    width: 80px;
+    border-radius: 50%; 
+    object-fit: cover;
+}
+
+
 /*  FOOTER */
 
 #footer {
@@ -251,7 +300,7 @@ li {
 
 /*  SUPPORT FOR MOBILE */
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
+@media only screen and (max-device-width : 767px) {
 
     #navigation ul {
         padding: 0;
@@ -264,6 +313,22 @@ li {
         font-size: 20px;
         padding: 12px 0;
         margin: auto;
+    }
+
+    #logo-container {
+        width: 100%;
+        float: none;
+        height: 100px;
+    }
+
+    #title-container {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+
+    #logo {
+        width: 250px;
     }
 
 }
