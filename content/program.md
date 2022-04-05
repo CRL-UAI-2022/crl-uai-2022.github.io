@@ -6,15 +6,40 @@ title: "Program"
 
 ## Invited Speakers
 
-* [Bernhard Schölkopf](https://is.mpg.de/~bs)
-* [Alison Gopnik](http://alisongopnik.com/)
-* [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/)
-* [Caroline Uhler](https://www.carolineuhler.com/)
-* [Gemma Moran](https://www.gemma-moran.com/)
-* [Sander Beckers](https://sanderbeckers.github.io/website/about/)
-* [Phillip Lippe](https://phlippe.github.io/)
-* [Anirudh Goyal](https://anirudh9119.github.io/)
-
+<table class="list-of-people">
+    <tr>
+        <td><img src="/bernhard.jpg"></td>
+        <td><a href="https://is.mpg.de/~bs">Bernhard Schölkopf</a></td>
+    </tr>
+    <tr>
+        <td><img src="/alison.png"></td>
+        <td><a href="http://alisongopnik.com/">Alison Gopnik</a></td>
+    </tr>
+    <tr>
+        <td><img src="/aapo.png"></td>
+        <td><a href="https://www.cs.helsinki.fi/u/ahyvarin/">Aapo Hyvärinen</a></td>
+    </tr>
+    <tr>
+        <td><img src="/caroline.png"></td>
+        <td><a href="https://www.carolineuhler.com/">Caroline Uhler</a></td>
+    </tr>
+    <tr>
+        <td><img src="/gemma.jpg"></td>
+        <td><a href="https://www.gemma-moran.com/">Gemma Moran</a></td>
+    </tr>
+    <tr>
+        <td><img src="/sander.jpeg"></td>
+        <td><a href="https://sanderbeckers.github.io/website/about/">Sander Beckers</a></td>
+    </tr>
+    <tr>
+        <td><img src="/philip.jpg"></td>
+        <td><a href="https://phlippe.github.io/">Phillip Lippe</a></td>
+    </tr>
+    <tr>
+        <td><img src="/anirudh.jpg"></td>
+        <td><a href="https://anirudh9119.github.io/">Anirudh Goyal</a></td>
+    </tr>
+</table>
 
 
 ## Preliminary Schedule
