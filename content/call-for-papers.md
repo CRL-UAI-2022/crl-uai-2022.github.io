@@ -26,8 +26,8 @@ The CRL workshop is non-archival, and should thus generally not violate dual sub
 
 ## Important Dates
 
-* **Paper submission deadline:** June 1, 2022, AoE
-* **Notification to authors:** July 1, 2022, AoE
+* **Paper submission deadline:** June 1, 2022, 23:59 AoE
+* **Notification to authors:** July 1, 2022, 23:59 AoE
 * **Camera-ready version:** TBA
 * **Workshop Date:** August 5, 2022
 
