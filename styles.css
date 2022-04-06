@@ -187,7 +187,7 @@ li {
 	list-style-type: none;
 	display: inline-block;
     box-sizing: border-box;
-    padding: 10px;
+    padding: 10px 16px;
 }
 
 #navigation a:hover {
@@ -220,6 +220,10 @@ li {
 
 #content a:hover {
     text-decoration-style: solid;
+}
+
+.center {
+    text-align: center;
 }
 
 .schedule {
@@ -262,25 +266,28 @@ li {
 
 .list-of-people {
     margin: 0 auto;
+    justify-content: space-around;
+    display: flex; 
+    flex-wrap: wrap;
 }
 
-.list-of-people tr td {
-    vertical-align: middle;
+.person {
+    width: 32%;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
 }
 
-.list-of-people tr td:nth-child(2) {
-    vertical-align: middle;
-    padding-left: 16px;
-}
-
-.list-of-people tr td a {
+.person a {
     font-weight: bold;
 }
 
-.list-of-people tr td img {
-    width: 80px;
+.person img {
+    width: 150px;
     border-radius: 50%; 
     object-fit: cover;
+    border: 2px solid black;
 }
 
 
@@ -329,6 +336,10 @@ li {
 
     #logo {
         width: 250px;
+    }
+
+    .person {
+        width: 100%;
     }
 
 }
