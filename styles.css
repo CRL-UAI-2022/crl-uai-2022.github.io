@@ -285,6 +285,7 @@ li {
 
 .person img {
     width: 150px;
+    height: 150px;
     border-radius: 50%; 
     object-fit: cover;
     border: 2px solid black;
@@ -336,6 +337,15 @@ li {
 
     #logo {
         width: 250px;
+    }
+
+    #content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .schedule {
+        width: 100%;
     }
 
     .person {
