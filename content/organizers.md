@@ -37,3 +37,7 @@ title: "Organizers"
 
 
 Thanks also to [**Timothy Gebhard**](https://timothygebhard.de/) for helping us set up the workshop website!
+
+## Contact
+
+For any questions or comments, please contact us at <crlworkshop.uai22@gmail.com>
