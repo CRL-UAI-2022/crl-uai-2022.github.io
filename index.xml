@@ -31,7 +31,7 @@
       
       <guid>https://crl-uai-2022.github.io/call-for-papers/</guid>
       <description>Call for Papers We welcome submissions related to any aspects of CRL, including but not limited to:
- Learning latent (structural) causal models &amp;amp; structured (deep) generative models Interventional representations, causal digital twins &amp;amp; structured (causal) world models Post-hoc extraction of causal relations from (deep) generative models Self-supervised causal representation learning Multi-environment &amp;amp; multi-view causal representation learning Micro vs. macro/coarse-grained/multi-level causal systems Identifiable representation learning &amp;amp; nonlinear ICA Uncertainty quantification in (causal) representation learning Group-theoretic &amp;amp; symmetry-based views on disentanglement Invariance &amp;amp; equivariance in representation learning Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy Real-world applications of causal representation learning, including in biology, medical sciences, or robotics  Important Dates  Paper submission deadline: TBA Notification to authors: TBA Camera-ready version: TBA Workshop Date: August 5, 2022  Style &amp;amp; Author Instructions To be announced.</description>
+ Learning latent (structural) causal models &amp;amp; structured (deep) generative models Interventional representations, causal digital twins &amp;amp; structured (causal) world models Post-hoc extraction of causal relations from (deep) generative models Self-supervised causal representation learning Multi-environment &amp;amp; multi-view causal representation learning Micro vs. macro/coarse-grained/multi-level causal systems Identifiable representation learning &amp;amp; nonlinear ICA Uncertainty quantification in (causal) representation learning Group-theoretic &amp;amp; symmetry-based views on disentanglement Invariance &amp;amp; equivariance in representation learning Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy Real-world applications of causal representation learning, including in biology, medical sciences, or robotics  Submissions should present novel, unpublished work.</description>
     </item>
     
     <item>
@@ -40,7 +40,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crl-uai-2022.github.io/organizers/</guid>
-      <description>Organizers   Julius von Kügelgen    Luigi Gresele    Francesco Locatello    Sara Magliacane    Nan Rosemary Ke    Yixin Wang    Yoshua Bengio   Thanks also to Timothy Gebhard for helping us set up the workshop website!</description>
+      <description>Organizers   Julius von Kügelgen    Luigi Gresele    Francesco Locatello    Sara Magliacane    Nan Rosemary Ke    Yixin Wang    Yoshua Bengio   Thanks also to Timothy Gebhard for helping us set up the workshop website!
+Contact For any questions or comments, please contact us at crlworkshop.uai22@gmail.com</description>
     </item>
     
     <item>
