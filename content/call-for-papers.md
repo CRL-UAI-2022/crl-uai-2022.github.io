@@ -36,6 +36,6 @@ The CRL workshop is non-archival, and should thus generally not violate dual sub
 
 Submissions should be formatted using the [UAI latex template and formatting instructions](https://www.auai.org/uai2022/formatting/uai2022-template.zip). Papers must be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account. 
 
-## Submission link
+## Submission Link
 
 https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL
