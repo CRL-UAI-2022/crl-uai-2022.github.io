@@ -57,51 +57,55 @@ title: "Program"
         <th>Program</th>
     </tr>
     <tr>
-        <td>09:00 - 09:10</td>
+        <td>08:50 - 09:00</td>
         <td>Introductory remarks</td>
     </tr>
     <tr class="invited">
-        <td>09:10 - 10:10</td>
+        <td>09:00 - 10:00</td>
         <td>Keynote talks (2 x 30 min)</tD>
     </tr>
-    <tr class="contributed">
-        <td>10:10 - 10:40</td>
-        <td>Contributed talks (2 x 15 min)</td>
-    </tr>
     <tr class="break">
-        <td>10:40 - 10:50</td>
+        <td>10:00 - 10:30</td>
         <td>Coffee break</td>
     </tr>
+    <tr class="contributed">
+        <td>10:30 - 11:00</td>
+        <td>Contributed talks (2 x 15 min)</td>
+    </tr>
     <tr class="invited">
-        <td>10:50 - 11:30</td>
+        <td>11:00 - 11:40</td>
         <td>Invited talks (2 x 20 min)</td>
     </tr>
     <tr class="contributed">
-        <td>11:30 - 13:00</td>
+        <td>11:40 - 12:30</td>
         <td>Poster session 1</td>
     </tr>
     <tr class="break">
-        <td>13:00 - 14:30</td>
+        <td>12:30 - 14:00</td>
         <td>Lunch break</td>
     </tr>
     <tr class="invited">
-        <td>14:30 - 15:10</td>
+        <td>14:00 - 15:00</td>
         <td>Invited talks (2 x 20 min)</td>
     </tr>
     <tr class="contributed">
-        <td>15:10 - 15:40</td>
-        <td>Contributed talks (2 x 15 min)</td>
+        <td>15:00 - 15:15</td>
+        <td>Contributed talk (15 min)</td>
     </tr>
     <tr class="break">
-        <td>15:40 - 15:50</td>
+        <td>15:15 - 15:45</td>
         <td>Coffee break</td>
+    </tr>
+    <tr class="contributed">
+        <td>15:45 - 16:00</td>
+        <td>Contributed talk (15 min)</td>
     </tr>
     <tr class="invited">
         <td>16:00 - 17:00</td>
         <td>Keynote talks (2 x 30 min)</td>
     </tr>
     <tr class="contributed">
-        <td>17:00 - 18:30</td>
+        <td>17:00 - 18:00</td>
         <td>Poster session 2</td>
     </tr>
 </table>
