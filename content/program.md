@@ -73,20 +73,20 @@ title: "Program"
         <td>Contributed talks (2 x 15 min)</td>
     </tr>
     <tr class="invited">
-        <td>11:00 - 11:40</td>
-        <td>Invited talks (2 x 20 min)</td>
+        <td>11:00 - 12:00</td>
+        <td>Invited talks (2 x 30 min)</td>
     </tr>
     <tr class="contributed">
-        <td>11:40 - 12:30</td>
+        <td>12:00 - 13:00</td>
         <td>Poster session 1</td>
     </tr>
     <tr class="break">
-        <td>12:30 - 14:00</td>
+        <td>13:00 - 14:00</td>
         <td>Lunch break</td>
     </tr>
     <tr class="invited">
         <td>14:00 - 15:00</td>
-        <td>Invited talks (2 x 20 min)</td>
+        <td>Invited talks (2 x 30 min)</td>
     </tr>
     <tr class="contributed">
         <td>15:00 - 15:15</td>
