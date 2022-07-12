@@ -31,7 +31,7 @@
       
       <guid>https://crl-uai-2022.github.io/call-for-papers/</guid>
       <description>Call for Papers We welcome submissions related to any aspects of CRL, including but not limited to:
- Learning latent (structural) causal models &amp;amp; structured (deep) generative models Interventional representations, causal digital twins &amp;amp; structured (causal) world models Post-hoc extraction of causal relations from (deep) generative models Self-supervised causal representation learning Multi-environment &amp;amp; multi-view causal representation learning Micro vs. macro/coarse-grained/multi-level causal systems Identifiable representation learning &amp;amp; nonlinear ICA Uncertainty quantification in (causal) representation learning Group-theoretic &amp;amp; symmetry-based views on disentanglement Invariance &amp;amp; equivariance in representation learning Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy Real-world applications of causal representation learning, including in biology, medical sciences, or robotics  Submissions should present novel, unpublished work.</description>
+Learning latent (structural) causal models &amp;amp; structured (deep) generative models Interventional representations, causal digital twins &amp;amp; structured (causal) world models Post-hoc extraction of causal relations from (deep) generative models Self-supervised causal representation learning Multi-environment &amp;amp; multi-view causal representation learning Micro vs. macro/coarse-grained/multi-level causal systems Identifiable representation learning &amp;amp; nonlinear ICA Uncertainty quantification in (causal) representation learning Group-theoretic &amp;amp; symmetry-based views on disentanglement Invariance &amp;amp; equivariance in representation learning Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy Real-world applications of causal representation learning, including in biology, medical sciences, or robotics Submissions should present novel, unpublished work.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crl-uai-2022.github.io/organizers/</guid>
-      <description>Organizers Julius von Kügelgen  Luigi Gresele  Francesco Locatello  Sara Magliacane  Nan Rosemary Ke  Yixin Wang  Yoshua Bengio   Thanks also to Timothy Gebhard for helping us set up the workshop website! Contact For any questions or comments, please contact us at crlworkshop.uai22@gmail.com</description>
+      <description>Organizers Julius von Kügelgen Luigi Gresele Francesco Locatello Sara Magliacane Nan Rosemary Ke Yixin Wang Yoshua Bengio Thanks also to Timothy Gebhard for helping us set up the workshop website! Contact For any questions or comments, please contact us at crlworkshop.uai22@gmail.com</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crl-uai-2022.github.io/program/</guid>
-      <description>Program Invited Speakers  Bernhard Schölkopf   Alison Gopnik   Aapo Hyvärinen   Caroline Uhler   Gemma Moran   Sander Beckers   Phillip Lippe   Anirudh Goyal   Preliminary Schedule Legend: contributed · invited · break   Time Program   08:50 - 09:00 Introductory remarks  09:00 - 10:00 Keynote talks (2 x 30 min)  10:00 - 10:30 Coffee break  10:30 - 11:00 Contributed talks (2 x 15 min)  11:00 - 12:00 Invited talks (2 x 30 min)  12:00 - 13:00 Poster session 1  13:00 - 14:00 Lunch break  14:00 - 15:00 Invited talks (2 x 30 min)  15:00 - 15:15 Contributed talk (15 min)  15:15 - 15:45 Coffee break  15:45 - 16:00 Contributed talk (15 min)  16:00 - 17:00 Keynote talks (2 x 30 min)  17:00 - 18:00 Poster session 2   All times according to Central European Summer Time (CEST).</description>
+      <description>Program Invited Speakers Bernhard Schölkopf Alison Gopnik Aapo Hyvärinen Caroline Uhler Gemma Moran Sander Beckers Phillip Lippe Anirudh Goyal Preliminary Schedule Legend: contributed · invited · break Time Program 08:50 - 09:00 Introductory remarks 09:00 - 10:00 Keynote talks (2 x 30 min) 10:00 - 10:30 Coffee break 10:30 - 11:00 Contributed talks (2 x 15 min) 11:00 - 12:00 Invited talks (2 x 30 min) 12:00 - 13:00 Poster session 1 13:00 - 14:00 Lunch break 14:00 - 15:00 Invited talks (2 x 30 min) 15:00 - 15:15 Contributed talk (15 min) 15:15 - 15:45 Coffee break 15:45 - 16:00 Contributed talk (15 min) 16:00 - 17:00 Keynote talks (2 x 30 min) 17:00 - 18:00 Poster session 2 All times according to Central European Summer Time (CEST).</description>
     </item>
     
     <item>
@@ -58,9 +58,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crl-uai-2022.github.io/selected-references/</guid>
-      <description>Selected References The following is a non-exhaustive list of selected references related to the topics of the workshop.
-  Kosoy, E., Liu, A., Collins, J.L., Chan, D., Hamrick, J.B., Ke, N.R., Huang, S., Kaufmann, B., Canny, J. &amp;amp; Gopnik, A. Learning Causal Overhypotheses through Exploration in Children and Computational Models. Conference on Causal Learning and Reasoning, 2022.
-  Ahuja, K., Hartford, J., &amp;amp; Bengio, Y. Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.</description>
+      <description>Selected References The following is a non-exhaustive list of selected references related to the topics of the workshop, compiled before announcing the call for papers.
+Kosoy, E., Liu, A., Collins, J.L., Chan, D., Hamrick, J.B., Ke, N.R., Huang, S., Kaufmann, B., Canny, J. &amp;amp; Gopnik, A. Learning Causal Overhypotheses through Exploration in Children and Computational Models. Conference on Causal Learning and Reasoning, 2022.
+Ahuja, K., Hartford, J., &amp;amp; Bengio, Y. Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.</description>
     </item>
     
   </channel>
