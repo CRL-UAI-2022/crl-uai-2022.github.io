@@ -21,7 +21,7 @@ One aim of this first workshop on CRL is to bring together researchers focusing 
 
 * **Paper submission deadline: June 6, 2022, 23:59 AoE**
 * **Notification to authors:** July 5, 2022, 23:59 AoE
-* **Camera-ready version:** TBA
+* **Camera-ready version:** August 12, 2022, 23:59 AoE
 * **Workshop Date:** August 5, 2022
 
 Contact us at <crlworkshop.uai22@gmail.com>
