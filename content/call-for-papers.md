@@ -43,7 +43,7 @@ https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL
 
 ## Camera-Ready Revisions 
 
-are now enabled in OpenReview. While the workshop has no official proceedings, we strongly encourage you to submit a revised "camera-ready" version taking reviewers' comments and suggestions into account. We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) by the revision deadline of 12 August, 1 week after the workshop. 
+Camera-Ready revisions are now enabled in OpenReview. While the workshop has no official proceedings, we strongly encourage you to submit a revised "camera-ready" version taking reviewers' comments and suggestions into account. We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) by the revision deadline of 12 August, 1 week after the workshop. 
 
 
 ## Updated Style-File 
