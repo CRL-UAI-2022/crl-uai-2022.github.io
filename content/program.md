@@ -113,3 +113,11 @@ title: "Program"
 <div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;">
     <em>All times according to Central European Summer Time (CEST).</em>
 </div>
+
+## Hybrid Format 
+
+UAI, including the workshop, will be held as a hybrid event (in-person with virtual components): all workshop talks will be live-streamed and there will most likely be virtual poster sessions in parallel to the in person poster sessions (details will follow). If you can travel to Eindhoven and attend in person, we warmly encourage you to do so.
+
+## Poster Session 
+
+All accepted papers will be presented as a poster at the workshop. All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day (i.e., all posters are presented during both poster sessions). It is allowed and encouraged to present posters both physically and virtually at the same time, e.g., if you have a co-author who will not attend in person and is willing to present online for the virtual participants.
