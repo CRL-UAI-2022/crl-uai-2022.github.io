@@ -1,10 +1,8 @@
 ---
-title: "Program"
+title: "Schedule"
 ---
 
-# Program
-
-## Invited Speakers
+# Invited Speakers
 
 <div class="list-of-people">
     <div class="person">
