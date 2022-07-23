@@ -1,5 +1,5 @@
 ---
-title: "Selected References"
+title: "References"
 ---
 
 # Selected References
