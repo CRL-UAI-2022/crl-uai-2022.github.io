@@ -25,7 +25,7 @@ disableKinds = ["taxonomyTerm"]
     url  = "/call-for-papers"
     weight = 1
 [[menu.main]]
-    name = "Selected References"
+    name = "References"
     url  = "/selected-references"
     weight = 2
 [[menu.main]]
@@ -33,10 +33,10 @@ disableKinds = ["taxonomyTerm"]
     url  = "/accepted-papers"
     weight = 3
 [[menu.main]]
-    name = "Program"
+    name = "Schedule"
     url  = "/program"
     weight = 4
 [[menu.main]]
-    name = "Organizers"
+    name = "Program Committee"
     url  = "/organizers"
     weight = 5
