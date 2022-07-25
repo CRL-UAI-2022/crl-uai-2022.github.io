@@ -34,9 +34,9 @@ disableKinds = ["taxonomyTerm"]
     weight = 3
 [[menu.main]]
     name = "Schedule"
-    url  = "/program"
+    url  = "/schedule"
     weight = 4
 [[menu.main]]
     name = "Program Committee"
-    url  = "/organizers"
+    url  = "/program-committee"
     weight = 5
