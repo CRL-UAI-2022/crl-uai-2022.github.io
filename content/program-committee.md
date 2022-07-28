@@ -118,6 +118,6 @@ Yujia Zheng, Carnegie Mellon University
 
 For any questions or comments, please contact us at <crlworkshop.uai22@gmail.com>
 
-<p class="center">
-    Thanks also to <strong><a href="https://timothygebhard.de">Timothy Gebhard</a></strong> for helping us set up the workshop website!
-</p>
+<div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;">
+    <em>Thanks also to <strong><a href="https://timothygebhard.de">Timothy Gebhard</a></strong> for helping us set up the workshop website!</em>
+</div>
