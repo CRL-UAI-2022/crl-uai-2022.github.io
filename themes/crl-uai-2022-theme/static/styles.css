@@ -239,7 +239,7 @@ li {
     border-bottom: 2px solid black;
 }
 
-.schedule tr th, .schedule tr td {
+.schedule tr td, .schedule tr td {
     padding: 1px;
     border-top: .5px solid black;
     border-bottom: .5px solid black;
