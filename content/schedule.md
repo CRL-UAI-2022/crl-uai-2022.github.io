@@ -40,7 +40,7 @@ title: "Schedule"
 </div>
 
 
-## Preliminary Schedule
+## Workshop Schedule
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
