@@ -227,7 +227,7 @@ li {
 }
 
 .schedule {
-    width: 70%;
+    width: 100%;
     margin: auto;
     text-align: center;
     border-collapse: collapse;
@@ -241,6 +241,8 @@ li {
 
 .schedule tr th, .schedule tr td {
     padding: 1px;
+    border-top: .5px solid black;
+    border-bottom: .5px solid black;
 }
 
 .schedule th:nth-child(2), table td:nth-child(2){
