@@ -51,60 +51,104 @@ title: "Schedule"
 
 <table class="schedule">
     <tr>
-        <th>Time</th>
+        <th style="width:25%">Time</th>
         <th>Program</th>
+        <th>Format</th>
     </tr>
     <tr>
         <td>08:50 - 09:00</td>
         <td>Introductory remarks</td>
+        <td>In-person</td>
     </tr>
     <tr class="invited">
-        <td>09:00 - 10:00</td>
-        <td>Keynote talks (2 x 30 min)</tD>
+        <td>09:00 - 09:30</td>
+        <td>Aapo Hyvärinen</td>
+        <td>Virtual (live)</td>
+    </tr>
+    <tr class="invited">
+        <td>09:30 - 10:00</td>
+        <td>Gemma Moran</td>
+        <td>In-person</td>
     </tr>
     <tr class="break">
         <td>10:00 - 10:30</td>
         <td>Coffee break</td>
+        <td>-</td>
     </tr>
     <tr class="contributed">
-        <td>10:30 - 11:00</td>
-        <td>Contributed talks (2 x 15 min)</td>
+        <td>10:30 - 10:45</td>
+        <td>Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity”</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="contributed">
+        <td>10:45 - 11:00</td>
+        <td>Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships”</td>
+        <td>In-person</td>
     </tr>
     <tr class="invited">
-        <td>11:00 - 12:00</td>
-        <td>Invited talks (2 x 30 min)</td>
+        <td>11:00 - 11:30</td>
+        <td>Phillip Lippe</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="invited">
+        <td>11:30 - 12:00</td>
+        <td>Anirudh Goyal</td>
+        <td>In-person</td>
     </tr>
     <tr class="contributed">
         <td>12:00 - 13:00</td>
         <td>Poster session 1</td>
+        <td>In-person &amp gather town</td>
     </tr>
     <tr class="break">
         <td>13:00 - 14:00</td>
         <td>Lunch break</td>
+        <td>-</td>
     </tr>
     <tr class="invited">
-        <td>14:00 - 15:00</td>
-        <td>Invited talks (2 x 30 min)</td>
+        <td>14:00 - 14:30</td>
+        <td>Sander Beckers</td>
+        <td>In-person</td>
+    </tr>
+    <tr class="invited">
+        <td>14:30 - 15:00</td>
+        <td>Caroline Uhler</td>
+        <td>Virtual (live)</td>
     </tr>
     <tr class="contributed">
         <td>15:00 - 15:15</td>
-        <td>Contributed talk (15 min)</td>
+        <td>Fabio Massimo Zennaro - “Abstraction between Structural Causal Models: A Review of Definitions and Properties”</td>
+        <td>Virtual (live)</td>
     </tr>
     <tr class="break">
         <td>15:15 - 15:45</td>
         <td>Coffee break</td>
+        <td>-</td>
     </tr>
     <tr class="contributed">
         <td>15:45 - 16:00</td>
-        <td>Contributed talk (15 min)</td>
+        <td>Yiping Wang - “Causal Class Activation Maps for Weakly-Supervised Semantic Segmentation”</td>
+        <td>Virtual (live)</td>
     </tr>
     <tr class="invited">
-        <td>16:00 - 17:00</td>
-        <td>Keynote talks (2 x 30 min)</td>
+        <td>16:00 - 16:30</td>
+        <td>Bernhard Schölkopf - “Towards Causal Representations”</td>
+        <td>Virtual (live)</td>
+    </tr>
+    <tr class="invited">
+        <td>16:30 - 17:00</td>
+        <td>Alison Gopnik</td>
+        <td>Virtual (live)</td>
+    </tr>
+    <tr>
+        <td>17:00 - 17:05</td>
+        <td>Concluding remarks &amp best paper/poster awards</td>
+        <td>In-person</td>
     </tr>
     <tr class="contributed">
-        <td>17:00 - 18:00</td>
+        <td>17:05 - 18:00</td>
         <td>Poster session 2</td>
+        <td>In-person &amp gather town</td>
     </tr>
 </table>
 
