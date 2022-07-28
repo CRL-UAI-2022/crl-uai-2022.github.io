@@ -44,23 +44,6 @@ Learning latent (structural) causal models &amp;amp; structured (deep) generativ
     
     <item>
       <title>Program Committee</title>
-      <link>https://crl-uai-2022.github.io/organizers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://crl-uai-2022.github.io/organizers/</guid>
-      <description>Organizers Julius von Kügelgen Luigi Gresele Francesco Locatello Sara Magliacane Nan Rosemary Ke Yixin Wang Yoshua Bengio Reviewers Alexander Hägele, ETH Zürich
-Biwei Huang, Carnegie Mellon University
-Bohdan Kivva, University of Chicago
-Bryon Aragam, University of Chicago
-Chandler Squires, Massachusetts Institute of Technology
-Cian Eastwood, University of Edinburgh
-Daniel Malinsky, Johns Hopkins University
-Davide Talon, Università degli Studi di Genova, Istituto Italiano di Tecnologia
-Dhanya Sridhar, Université de Montréal and Mila-Quebec AI Institute</description>
-    </item>
-    
-    <item>
-      <title>Program Committee</title>
       <link>https://crl-uai-2022.github.io/program-committee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -85,15 +68,6 @@ Dhanya Sridhar, Université de Montréal and Mila-Quebec AI Institute</descripti
       <description>Selected References The following is a non-exhaustive list of selected references related to the topics of the workshop, compiled before announcing the call for papers.
 Kosoy, E., Liu, A., Collins, J.L., Chan, D., Hamrick, J.B., Ke, N.R., Huang, S., Kaufmann, B., Canny, J. &amp;amp; Gopnik, A. Learning Causal Overhypotheses through Exploration in Children and Computational Models. Conference on Causal Learning and Reasoning, 2022.
 Ahuja, K., Hartford, J., &amp;amp; Bengio, Y. Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://crl-uai-2022.github.io/program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://crl-uai-2022.github.io/program/</guid>
-      <description>Invited Speakers Bernhard Schölkopf Alison Gopnik Aapo Hyvärinen Caroline Uhler Gemma Moran Sander Beckers Phillip Lippe Anirudh Goyal Preliminary Schedule Legend: contributed · invited · break Time Program 08:50 - 09:00 Introductory remarks 09:00 - 10:00 Keynote talks (2 x 30 min) 10:00 - 10:30 Coffee break 10:30 - 11:00 Contributed talks (2 x 15 min) 11:00 - 12:00 Invited talks (2 x 30 min) 12:00 - 13:00 Poster session 1 13:00 - 14:00 Lunch break 14:00 - 15:00 Invited talks (2 x 30 min) 15:00 - 15:15 Contributed talk (15 min) 15:15 - 15:45 Coffee break 15:45 - 16:00 Contributed talk (15 min) 16:00 - 17:00 Keynote talks (2 x 30 min) 17:00 - 18:00 Poster session 2 All times according to Central European Summer Time (CEST).</description>
     </item>
     
     <item>
