@@ -7,12 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://crl-uai-2022.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://crl-uai-2022.github.io/reviewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crl-uai-2022.github.io/reviewers/</guid>
+      <description>Reviewers Adam Li, Columbia University
+Alexander Hägele, ETHZ - ETH Zurich
+Biwei Huang, Carnegie Mellon University
+Bohdan Kivva, University of Chicago
+Bryon Aragam, University of Chicago
+Chandler Squires, Massachusetts Institute of Technology
+Cian Eastwood, University of Edinburgh
+Daniel Malinsky, Johns Hopkins University
+Davide Talon, Università degli Studi di Genova, Istituto Italiano di Tecnologia
+Dhanya Sridhar, Université de Montréal and Mila-Quebec AI Institute
+Furui Liu, Huawei Technologies Ltd.
+Gargi Balasubramaniam, University of Illinois, Urbana Champaign</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://crl-uai-2022.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crl-uai-2022.github.io/about/</guid>
-      <description>About Machine learning (ML) has established itself as the dominant and most successful paradigm for artificial intelligence (AI). A key strength of ML over earlier (symbolic, logic and rule-based) approaches to AI, is its ability to infer useful features or representations of often very high-dimensional observations in an automated, data-driven way. However, in doing so, it generally only leverages statistical information (e.g., correlations present in a training set) and consequently struggles at tasks such as knowledge transfer, systematic generalization, or planning, which are thought to require higher-order cognition.</description>
+      <description>About the workshop Machine learning (ML) has established itself as the dominant and most successful paradigm for artificial intelligence (AI). A key strength of ML over earlier (symbolic, logic and rule-based) approaches to AI, is its ability to infer useful features or representations of often very high-dimensional observations in an automated, data-driven way. However, in doing so, it generally only leverages statistical information (e.g., correlations present in a training set) and consequently struggles at tasks such as knowledge transfer, systematic generalization, or planning, which are thought to require higher-order cognition.</description>
     </item>
     
     <item>
@@ -40,6 +60,45 @@ Andreas W.M. Sauter, Erman Acar, Vincent Francois-Lavet</description>
       <guid>https://crl-uai-2022.github.io/call-for-papers/</guid>
       <description>Call for Papers We welcome submissions related to any aspects of CRL, including but not limited to:
 Learning latent (structural) causal models &amp;amp; structured (deep) generative models Interventional representations, causal digital twins &amp;amp; structured (causal) world models Post-hoc extraction of causal relations from (deep) generative models Self-supervised causal representation learning Multi-environment &amp;amp; multi-view causal representation learning Micro vs. macro/coarse-grained/multi-level causal systems Identifiable representation learning &amp;amp; nonlinear ICA Uncertainty quantification in (causal) representation learning Group-theoretic &amp;amp; symmetry-based views on disentanglement Invariance &amp;amp; equivariance in representation learning Interdisciplinary perspectives on causal representation learning, including from cognitive science, psychology, (computational) neuroscience or philosophy Real-world applications of causal representation learning, including in biology, medical sciences, or robotics Submissions should present novel, unpublished work.</description>
+    </item>
+    
+    <item>
+      <title>Formatting Instructions</title>
+      <link>https://crl-uai-2022.github.io/formatting-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crl-uai-2022.github.io/formatting-instructions/</guid>
+      <description>Formatting Instructions Style &amp;amp; Author Instructions Submissions should be formatted using the UAI latex template and formatting instructions. Papers must be submitted as a PDF file and should be 4-6 pages in length, including all main results, figures, and tables. Appendices containing additional details are allowed, but reviewers are not expected to take this into account.
+Submission Link https://openreview.net/group?id=auai.org/UAI/2022/Workshop/CRL
+Camera-Ready Revisions Camera-Ready revisions are now enabled in OpenReview. While the workshop has no official proceedings, we strongly encourage you to submit a revised &amp;ldquo;camera-ready&amp;rdquo; version taking reviewers&amp;rsquo; comments and suggestions into account.</description>
+    </item>
+    
+    <item>
+      <title>Important Dates</title>
+      <link>https://crl-uai-2022.github.io/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crl-uai-2022.github.io/dates/</guid>
+      <description>Important Dates Paper submission deadline: June 6, 2022, 23:59 AoE Notification to authors: July 5, 2022, 23:59 AoE Camera-ready version: August 12, 2022, 23:59 AoE Workshop Date: August 5, 2022 </description>
+    </item>
+    
+    <item>
+      <title>Invited Speakers</title>
+      <link>https://crl-uai-2022.github.io/invited-speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crl-uai-2022.github.io/invited-speakers/</guid>
+      <description>Invited Speakers Bernhard Schölkopf Alison Gopnik Aapo Hyvärinen Caroline Uhler Gemma Moran Sander Beckers Phillip Lippe Anirudh Goyal </description>
+    </item>
+    
+    <item>
+      <title>Organisers</title>
+      <link>https://crl-uai-2022.github.io/organisers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crl-uai-2022.github.io/organisers/</guid>
+      <description>Organisers Julius von Kügelgen Luigi Gresele Francesco Locatello Sara Magliacane Nan Rosemary Ke Yixin Wang Yoshua Bengio Contact For any questions or comments, please contact us at crlworkshop.uai22@gmail.com
+Thanks also to Timothy Gebhard for helping us set up the workshop website! </description>
     </item>
     
     <item>
@@ -77,6 +136,15 @@ Ahuja, K., Hartford, J., &amp;amp; Bengio, Y. Properties from Mechanisms: An Equ
       
       <guid>https://crl-uai-2022.github.io/schedule/</guid>
       <description>Invited Speakers Bernhard Schölkopf Alison Gopnik Aapo Hyvärinen Caroline Uhler Gemma Moran Sander Beckers Phillip Lippe Anirudh Goyal Workshop Schedule Legend: contributed · invited · break Time Program Format 08:50 - 09:00 Introductory remarks In-person 09:00 - 09:30 Aapo Hyvärinen Virtual (live) 09:30 - 10:00 Gemma Moran In-person 10:00 - 10:30 Coffee break - 10:30 - 10:45 Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity” In-person 10:45 - 11:00 Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships” In-person 11:00 - 11:30 Phillip Lippe In-person 11:30 - 12:00 Anirudh Goyal In-person 12:00 - 13:00 Poster session 1 In-person &amp;amp gather town 13:00 - 14:00 Lunch break - 14:00 - 14:30 Sander Beckers In-person 14:30 - 15:00 Caroline Uhler Virtual (live) 15:00 - 15:15 Fabio Massimo Zennaro - “Abstraction between Structural Causal Models: A Review of Definitions and Properties” Virtual (live) 15:15 - 15:45 Coffee break - 15:45 - 16:00 Yiping Wang - “Causal Class Activation Maps for Weakly-Supervised Semantic Segmentation” Virtual (live) 16:00 - 16:30 Bernhard Schölkopf - “Towards Causal Representations” Virtual (live) 16:30 - 17:00 Alison Gopnik Virtual (live) 17:00 - 17:05 Concluding remarks &amp;amp best paper/poster awards In-person 17:05 - 18:00 Poster session 2 In-person &amp;amp gather town All times according to Central European Summer Time (CEST).</description>
+    </item>
+    
+    <item>
+      <title>Schedule and Format</title>
+      <link>https://crl-uai-2022.github.io/schedule-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crl-uai-2022.github.io/schedule-format/</guid>
+      <description>Workshop Schedule Legend: contributed · invited · break Time Program Format 08:50 - 09:00 Introductory remarks In-person 09:00 - 09:30 Aapo Hyvärinen - &#34;Causal Discovery and Latent-Variable Models&#34; Virtual (live) 09:30 - 10:00 Gemma Moran - “Identifiable Deep Generative Models via Sparse Decoding” In-person 10:00 - 10:30 Coffee break - 10:30 - 10:45 Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity” In-person 10:45 - 11:00 Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships” In-person 11:00 - 11:30 Phillip Lippe - &#34;</description>
     </item>
     
   </channel>
