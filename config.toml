@@ -25,18 +25,34 @@ disableKinds = ["taxonomyTerm"]
     url  = "/call-for-papers"
     weight = 1
 [[menu.main]]
-    name = "References"
-    url  = "/selected-references"
+    name = "About"
+    url  = "/about"
     weight = 2
+[[menu.main]]
+    name = "Dates"
+    url  = "/dates"
+    weight = 3
+[[menu.main]]
+    name = "Formatting Instructions"
+    url  = "/formatting-instructions"
+    weight = 4
+[[menu.main]]
+    name = "Organisers"
+    url  = "/organisers"
+    weight = 5
 [[menu.main]]
     name = "Accepted Papers"
     url  = "/accepted-papers"
-    weight = 3
+    weight = 6
 [[menu.main]]
-    name = "Schedule"
-    url  = "/schedule"
-    weight = 4
+    name = "Schedule and Format"
+    url  = "/schedule-format"
+    weight = 7
 [[menu.main]]
-    name = "Program Committee"
-    url  = "/program-committee"
-    weight = 5
+    name = "Invited Speakers"
+    url  = "/invited-speakers"
+    weight = 8
+[[menu.main]]
+    name = "Reviewers"
+    url  = "/reviewers"
+    weight = 9
