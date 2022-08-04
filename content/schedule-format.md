@@ -56,7 +56,7 @@ title: "Schedule and Format"
     <tr class="invited">
         <td>11:30 - 12:00</td>
         <td>Anirudh Goyal</td>
-        <td>In-person</td>
+        <td>Virtual (live)</td>
     </tr>
     <tr class="contributed">
         <td>12:00 - 13:00</td>
