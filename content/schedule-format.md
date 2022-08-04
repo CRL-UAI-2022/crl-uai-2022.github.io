@@ -61,7 +61,7 @@ title: "Schedule and Format"
     <tr class="contributed">
         <td>12:00 - 13:00</td>
         <td>Poster session 1</td>
-        <td>In-person &amp gather town</td>
+        <td>In-person &amp <a href="https://gather.town/app/fdnUf3ZhiXnz0Eub/UAIsland2022">Gather Town</a></td>
     </tr>
     <tr class="break">
         <td>13:00 - 14:00</td>
@@ -111,7 +111,7 @@ title: "Schedule and Format"
     <tr class="contributed">
         <td>17:05 - 18:00</td>
         <td>Poster session 2</td>
-        <td>In-person &amp gather town</td>
+        <td>In-person &amp <a href="https://gather.town/app/fdnUf3ZhiXnz0Eub/UAIsland2022">Gather Town</a></td>
     </tr>
     <tr class="break">
         <td>18:00 - end</td>
@@ -128,7 +128,7 @@ title: "Schedule and Format"
 
 The workshop is part of UAI and as such registration to UAI is required to attend. 
 
-UAI including the workshop will be held as a hybrid event, allowing for both in-person and virtual participation. For remote participation, all workshop talks will be live-streamed on Zoom and virtual poster sessions will be run on Gather Town in parallel to the in-person ones. 
+UAI including the workshop will be held as a hybrid event, allowing for both in-person and virtual participation. **For remote participation, all workshop talks will be live-streamed on Zoom and virtual poster sessions will be run on <a href="https://gather.town/app/fdnUf3ZhiXnz0Eub/UAIsland2022">Gather Town</a> in parallel to the in-person ones**. 
 
 There will be a single Zoom meeting for the whole day, which is accessible via UAI 2022’s Zoom Events; if you are registered, you should have received information from the main conference on how to access the Zoom Events Lobby. 
 
