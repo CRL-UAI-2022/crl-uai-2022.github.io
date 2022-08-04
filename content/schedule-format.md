@@ -95,7 +95,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>16:00 - 16:30</td>
-        <td>Bernhard Schölkopf - “Towards Causal Representations”</td>
+        <td>Bernhard Schölkopf - “Desiderata for Causal Representations”</td>
         <td>Virtual (live)</td>
     </tr>
     <tr class="invited">
