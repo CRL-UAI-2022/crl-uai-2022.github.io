@@ -102,43 +102,6 @@ Thanks also to Timothy Gebhard for helping us set up the workshop website! </des
     </item>
     
     <item>
-      <title>Program Committee</title>
-      <link>https://crl-uai-2022.github.io/program-committee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://crl-uai-2022.github.io/program-committee/</guid>
-      <description>Program Committee Organizers Julius von Kügelgen Luigi Gresele Francesco Locatello Sara Magliacane Nan Rosemary Ke Yixin Wang Yoshua Bengio Reviewers Alexander Hägele, ETH Zürich
-Biwei Huang, Carnegie Mellon University
-Bohdan Kivva, University of Chicago
-Bryon Aragam, University of Chicago
-Chandler Squires, Massachusetts Institute of Technology
-Cian Eastwood, University of Edinburgh
-Daniel Malinsky, Johns Hopkins University
-Davide Talon, Università degli Studi di Genova, Istituto Italiano di Tecnologia
-Dhanya Sridhar, Université de Montréal and Mila-Quebec AI Institute</description>
-    </item>
-    
-    <item>
-      <title>References</title>
-      <link>https://crl-uai-2022.github.io/selected-references/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://crl-uai-2022.github.io/selected-references/</guid>
-      <description>Selected References The following is a non-exhaustive list of selected references related to the topics of the workshop, compiled before announcing the call for papers.
-Kosoy, E., Liu, A., Collins, J.L., Chan, D., Hamrick, J.B., Ke, N.R., Huang, S., Kaufmann, B., Canny, J. &amp;amp; Gopnik, A. Learning Causal Overhypotheses through Exploration in Children and Computational Models. Conference on Causal Learning and Reasoning, 2022.
-Ahuja, K., Hartford, J., &amp;amp; Bengio, Y. Properties from Mechanisms: An Equivariance Perspective on Identifiable Representation Learning.</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://crl-uai-2022.github.io/schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://crl-uai-2022.github.io/schedule/</guid>
-      <description>Invited Speakers Bernhard Schölkopf Alison Gopnik Aapo Hyvärinen Caroline Uhler Gemma Moran Sander Beckers Phillip Lippe Anirudh Goyal Workshop Schedule Legend: contributed · invited · break Time Program Format 08:50 - 09:00 Introductory remarks In-person 09:00 - 09:30 Aapo Hyvärinen Virtual (live) 09:30 - 10:00 Gemma Moran In-person 10:00 - 10:30 Coffee break - 10:30 - 10:45 Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity” In-person 10:45 - 11:00 Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships” In-person 11:00 - 11:30 Phillip Lippe In-person 11:30 - 12:00 Anirudh Goyal In-person 12:00 - 13:00 Poster session 1 In-person &amp;amp gather town 13:00 - 14:00 Lunch break - 14:00 - 14:30 Sander Beckers In-person 14:30 - 15:00 Caroline Uhler Virtual (live) 15:00 - 15:15 Fabio Massimo Zennaro - “Abstraction between Structural Causal Models: A Review of Definitions and Properties” Virtual (live) 15:15 - 15:45 Coffee break - 15:45 - 16:00 Yiping Wang - “Causal Class Activation Maps for Weakly-Supervised Semantic Segmentation” Virtual (live) 16:00 - 16:30 Bernhard Schölkopf - “Towards Causal Representations” Virtual (live) 16:30 - 17:00 Alison Gopnik Virtual (live) 17:00 - 17:05 Concluding remarks &amp;amp best paper/poster awards In-person 17:05 - 18:00 Poster session 2 In-person &amp;amp gather town All times according to Central European Summer Time (CEST).</description>
-    </item>
-    
-    <item>
       <title>Schedule and Format</title>
       <link>https://crl-uai-2022.github.io/schedule-format/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
