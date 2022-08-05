@@ -107,7 +107,7 @@ Thanks also to Timothy Gebhard for helping us set up the workshop website! </des
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crl-uai-2022.github.io/schedule-format/</guid>
-      <description>Workshop Schedule Legend: contributed · invited · break Time Program Format 08:50 - 09:00 Introductory remarks In-person 09:00 - 09:30 Aapo Hyvärinen - &#34;Causal Discovery and Latent-Variable Models&#34; Virtual (live) 09:30 - 10:00 Gemma Moran - “Identifiable Deep Generative Models via Sparse Decoding” In-person 10:00 - 10:30 Coffee break - 10:30 - 10:45 Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity” In-person 10:45 - 11:00 Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships” In-person 11:00 - 11:30 Phillip Lippe - &#34;</description>
+      <description>Workshop Schedule Legend: contributed · invited · break Time Program Format 09:00 - 09:30 Introductory remarks In-person 09:30 - 10:00 Aapo Hyvärinen - &#34;Causal Discovery and Latent-Variable Models&#34; Virtual (live) 10:00 - 10:30 Coffee break - 10:30 - 10:45 Sebastien Lachapelle - “Partial Disentanglement via Mechanism Sparsity” In-person 10:45 - 11:00 Patrik Reizinger - “Multivariable Causal Discovery with General Nonlinear Relationships” In-person 11:00 - 11:30 Phillip Lippe - &#34;Learning Causal Variables from Temporal Sequences with Interventions&#34;</description>
     </item>
     
   </channel>
