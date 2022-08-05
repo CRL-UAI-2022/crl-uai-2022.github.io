@@ -19,19 +19,14 @@ title: "Schedule and Format"
         <th>Format</th>
     </tr>
     <tr>
-        <td>08:50 - 09:00</td>
+        <td>09:00 - 09:30</td>
         <td>Introductory remarks</td>
         <td>In-person</td>
     </tr>
     <tr class="invited">
-        <td>09:00 - 09:30</td>
+        <td>09:30 - 10:00</td>
         <td>Aapo Hyvärinen - "Causal Discovery and Latent-Variable Models"</td>
         <td>Virtual (live)</td>
-    </tr>
-    <tr class="invited">
-        <td>09:30 - 10:00</td>
-        <td>Gemma Moran - “Identifiable Deep Generative Models via Sparse Decoding”</td>
-        <td>In-person</td>
     </tr>
     <tr class="break">
         <td>10:00 - 10:30</td>
@@ -100,8 +95,8 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>16:30 - 17:00</td>
-        <td>Alison Gopnik</td>
-        <td>Virtual (live)</td>
+        <td>Gemma Moran - “Identifiable Deep Generative Models via Sparse Decoding”</td>
+        <td>In-person</td>
     </tr>
     <tr>
         <td>17:00 - 17:05</td>
