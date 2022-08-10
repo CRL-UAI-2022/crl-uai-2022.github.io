@@ -119,6 +119,8 @@ title: "Schedule and Format"
     <em>All times according to Central European Summer Time (CEST).</em>
 </div>
 
+Unfortunately Alison Gopnik had to cancel her talk, we hope she can join us in some future occurrence of the workshop.
+
 ## Hybrid Format
 
 The workshop is part of UAI and as such registration to UAI is required to attend. 
