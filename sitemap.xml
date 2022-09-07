@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://crl-uai-2022.github.io/reviewers/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://crl-uai-2022.github.io/about/</loc>
   </url><url>
     <loc>https://crl-uai-2022.github.io/accepted-papers/</loc>
@@ -19,8 +16,12 @@
   </url><url>
     <loc>https://crl-uai-2022.github.io/invited-speakers/</loc>
   </url><url>
-    <loc>https://crl-uai-2022.github.io/organisers/</loc>
+    <loc>https://crl-uai-2022.github.io/organisers-reviewers/</loc>
+  </url><url>
+    <loc>https://crl-uai-2022.github.io/reviewers/</loc>
   </url><url>
     <loc>https://crl-uai-2022.github.io/schedule-format/</loc>
+  </url><url>
+    <loc>https://crl-uai-2022.github.io/slides-recording/</loc>
   </url>
 </urlset>
