@@ -6,17 +6,17 @@ title: "Slides and Recording"
 
 Slides from the speakers can be downloaded at the links below.
 
-* [Aapo Hyvärinen](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Hyvarinen.pdf)
-* [Sebastien Lachapelle](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/lachapelle.pptx)
-* [Patrik Reizinger](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/reizinger.pdf)
-* [Phillip Lippe](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Lippe.pdf)
-* [Anirudh Goyal](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Goyal.pdf)
-* [Sander Beckers](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/beckers.pdf)
-* [Caroline Uhler](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Uhler.pdf)
-* [Fabio Massimo Zennaro](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/zennaro.pdf)
-* [Yiping Wang](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/wang.pdf)
-* Bernhard Schölkopf (Coming soon)
-* [Gemma Moran](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/moran.pdf)
+* [Aapo Hyvärinen, "Causal Discovery and Latent-Variable Models"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Hyvarinen.pdf)
+* [Sebastien Lachapelle, "Partial Disentanglement via Mechanism Sparsity"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/lachapelle.pptx)
+* [Patrik Reizinger, "Multivariate Causal Discovery with General Nonlinear Relationships"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/reizinger.pdf)
+* [Phillip Lippe, "Learning Causal Variables from Temporal Sequences with Interventions"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Lippe.pdf)
+* [Anirudh Goyal, "From Specialists to Generalists"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Goyal.pdf)
+* [Sander Beckers, "Causal Abstractions and Causal Representation Learning"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/beckers.pdf)
+* [Caroline Uhler, "Causal Imputation"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Uhler.pdf)
+* [Fabio Massimo Zennaro, "Abstraction between Structural Causal Models: A Review of Definitions and Properties"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/zennaro.pdf)
+* [Yiping Wang, "Causal Class Activation Map for Weakly-Supervised Semantic Segmentation"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/wang.pdf)
+* Bernhard Schölkopf, "Desiderata for Causal Representations" (Coming soon)
+* [Gemma Moran, "Identifiable Deep Generative Models via Sparse Decoding"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/moran.pdf)
 
 # Recording
 
