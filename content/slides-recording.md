@@ -15,7 +15,7 @@ Slides from the speakers can be downloaded at the links below.
 * [Caroline Uhler, "Causal Imputation"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/Uhler.pdf)
 * [Fabio Massimo Zennaro, "Abstraction between Structural Causal Models: A Review of Definitions and Properties"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/zennaro.pdf)
 * [Yiping Wang, "Causal Class Activation Map for Weakly-Supervised Semantic Segmentation"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/wang.pdf)
-* Bernhard Schölkopf, "Desiderata for Causal Representations" (Coming soon)
+* Bernhard Schölkopf, "Desiderata for Causal Representations"
 * [Gemma Moran, "Identifiable Deep Generative Models via Sparse Decoding"](https://github.com/CRL-UAI-2022/crl-uai-2022.github.io/raw/main/slides/moran.pdf)
 
 # Recording
